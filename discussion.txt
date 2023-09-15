@@ -1,0 +1,2 @@
+Although most of the task were achievable, I had system issue in running script in some instances.
+My evaluation of the model showed pretty bad fit as F1 score and other measures are showing as 0
